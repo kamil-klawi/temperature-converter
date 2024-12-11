@@ -1,0 +1,14 @@
+C:\Users\kamil\RiderProjects\TemperatureConverter\TemperatureConverter.ConsoleApp\bin\Debug\net9.0\TemperatureConverter.ConsoleApp.exe
+C:\Users\kamil\RiderProjects\TemperatureConverter\TemperatureConverter.ConsoleApp\bin\Debug\net9.0\TemperatureConverter.ConsoleApp.deps.json
+C:\Users\kamil\RiderProjects\TemperatureConverter\TemperatureConverter.ConsoleApp\bin\Debug\net9.0\TemperatureConverter.ConsoleApp.runtimeconfig.json
+C:\Users\kamil\RiderProjects\TemperatureConverter\TemperatureConverter.ConsoleApp\bin\Debug\net9.0\TemperatureConverter.ConsoleApp.dll
+C:\Users\kamil\RiderProjects\TemperatureConverter\TemperatureConverter.ConsoleApp\bin\Debug\net9.0\TemperatureConverter.ConsoleApp.pdb
+C:\Users\kamil\RiderProjects\TemperatureConverter\TemperatureConverter.ConsoleApp\obj\Debug\net9.0\TemperatureConverter.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\RiderProjects\TemperatureConverter\TemperatureConverter.ConsoleApp\obj\Debug\net9.0\TemperatureConverter.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\kamil\RiderProjects\TemperatureConverter\TemperatureConverter.ConsoleApp\obj\Debug\net9.0\TemperatureConverter.ConsoleApp.AssemblyInfo.cs
+C:\Users\kamil\RiderProjects\TemperatureConverter\TemperatureConverter.ConsoleApp\obj\Debug\net9.0\TemperatureConverter.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\kamil\RiderProjects\TemperatureConverter\TemperatureConverter.ConsoleApp\obj\Debug\net9.0\TemperatureConverter.ConsoleApp.dll
+C:\Users\kamil\RiderProjects\TemperatureConverter\TemperatureConverter.ConsoleApp\obj\Debug\net9.0\refint\TemperatureConverter.ConsoleApp.dll
+C:\Users\kamil\RiderProjects\TemperatureConverter\TemperatureConverter.ConsoleApp\obj\Debug\net9.0\TemperatureConverter.ConsoleApp.pdb
+C:\Users\kamil\RiderProjects\TemperatureConverter\TemperatureConverter.ConsoleApp\obj\Debug\net9.0\TemperatureConverter.ConsoleApp.genruntimeconfig.cache
+C:\Users\kamil\RiderProjects\TemperatureConverter\TemperatureConverter.ConsoleApp\obj\Debug\net9.0\ref\TemperatureConverter.ConsoleApp.dll
