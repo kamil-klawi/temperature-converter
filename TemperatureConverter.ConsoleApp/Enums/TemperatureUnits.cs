@@ -1,4 +1,4 @@
-namespace TemperatureConverter.ConsoleApp.enums;
+namespace TemperatureConverter.ConsoleApp.Enums;
 
 public enum TemperatureUnits
 {

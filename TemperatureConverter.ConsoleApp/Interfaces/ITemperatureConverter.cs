@@ -1,6 +1,6 @@
-using TemperatureConverter.ConsoleApp.enums;
+using TemperatureConverter.ConsoleApp.Enums;
 
-namespace TemperatureConverter.ConsoleApp.interfaces;
+namespace TemperatureConverter.ConsoleApp.Interfaces;
 
 public interface ITemperatureConverter<T>
 {

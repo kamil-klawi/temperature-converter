@@ -1,4 +1,4 @@
-using TemperatureConverter.ConsoleApp.interfaces;
+using TemperatureConverter.ConsoleApp.Interfaces;
 
 namespace TemperatureConverter.ConsoleApp.Models;
 

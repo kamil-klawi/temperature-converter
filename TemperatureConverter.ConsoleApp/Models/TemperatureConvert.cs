@@ -1,5 +1,5 @@
-using TemperatureConverter.ConsoleApp.enums;
-using TemperatureConverter.ConsoleApp.interfaces;
+using TemperatureConverter.ConsoleApp.Enums;
+using TemperatureConverter.ConsoleApp.Interfaces;
 
 namespace TemperatureConverter.ConsoleApp.Models;
 

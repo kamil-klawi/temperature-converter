@@ -1,4 +1,4 @@
-﻿using TemperatureConverter.ConsoleApp.enums;
+﻿using TemperatureConverter.ConsoleApp.Enums;
 using TemperatureConverter.ConsoleApp.Models;
 
 namespace TemperatureConverter.ConsoleApp;

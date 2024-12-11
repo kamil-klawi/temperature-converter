@@ -1,4 +1,4 @@
-namespace TemperatureConverter.ConsoleApp.interfaces;
+namespace TemperatureConverter.ConsoleApp.Interfaces;
 
 public interface IScanner
 {

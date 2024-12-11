@@ -12,3 +12,4 @@ C:\Users\kamil\RiderProjects\TemperatureConverter\TemperatureConverter.ConsoleAp
 C:\Users\kamil\RiderProjects\TemperatureConverter\TemperatureConverter.ConsoleApp\obj\Debug\net9.0\TemperatureConverter.ConsoleApp.pdb
 C:\Users\kamil\RiderProjects\TemperatureConverter\TemperatureConverter.ConsoleApp\obj\Debug\net9.0\TemperatureConverter.ConsoleApp.genruntimeconfig.cache
 C:\Users\kamil\RiderProjects\TemperatureConverter\TemperatureConverter.ConsoleApp\obj\Debug\net9.0\ref\TemperatureConverter.ConsoleApp.dll
+C:\Users\kamil\RiderProjects\TemperatureConverter\TemperatureConverter.ConsoleApp\obj\Debug\net9.0\TemperatureConverter.ConsoleApp.sourcelink.json
