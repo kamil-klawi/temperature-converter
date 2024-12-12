@@ -11,7 +11,7 @@ public class ConsoleStream : IPrinter, IScanner
     
     public int ScanInteger(string input)
     {
-        Console.WriteLine(input);
+        Console.Write($"{input}: ");
         var initial = Console.ReadLine();
         if (int.TryParse(initial, out var temp))
             return temp;
@@ -20,7 +20,7 @@ public class ConsoleStream : IPrinter, IScanner
 
     public double ScanDouble(string input)
     {
-        Console.WriteLine(input);
+        Console.Write($"{input}: ");
         var initial = Console.ReadLine();
         if (double.TryParse(initial, out var temp))
             return temp;
